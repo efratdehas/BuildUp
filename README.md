@@ -138,9 +138,7 @@ My work included application architecture, React development, REST APIs, MySQL i
 ## 🖥️ Screenshots & Demo
 
 A visual showcase of BuildUp, including application screenshots, polished mockups, and a short screen recording demonstrating the main flows.
-![BuildUp Preview](./assets/Home Page.png)
-![BuildUp Preview](./assets/Projects Board.png)
-![BuildUp Preview](./assets/Job Board.png)
+<p align="center"> <img src="./assets/Home Page.png" width="30%"> <img src="./assets/Projects Board.png" width="30%"> <img src="./assets/Job Board.png" width="30%"> </p>
 
 [**🎨 View Full Screenshots & Demo**](https://drive.google.com/drive/folders/1lPI5FmPI41snzWDykjybVTd37F8Y1MaT?usp=sharing)
 
